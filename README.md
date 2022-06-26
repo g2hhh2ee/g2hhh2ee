@@ -38,11 +38,11 @@ Here are some ideas to get you started:
  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
-
+</div>
 
 ![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g2hhh2ee&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
--->
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g2hhh2ee&theme=dracula&count_private=true&hide=stars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
