@@ -40,7 +40,7 @@ Here are some ideas to get you started:
  
 </div>
 
-![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)
+![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g2hhh2ee&theme=dracula&count_private=true&hide=stars&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
