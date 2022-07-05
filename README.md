@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **g2hhh2ee/g2hhh2ee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +19,10 @@ Here are some ideas to get you started:
 </div>
 -->
 
+![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=stars)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g2hhh2ee&count_private=true&include_all_commits=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center>
 
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=282A36)
@@ -40,9 +42,5 @@ Here are some ideas to get you started:
  
 </div>
 
-![g2hhh2ee's GitHub stats](https://github-readme-stats.vercel.app/api?username=g2hhh2ee&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide=stars)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g2hhh2ee&count_private=true&include_all_commits=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
