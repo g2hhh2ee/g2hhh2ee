@@ -1,5 +1,4 @@
 <div align="center">
-<br><br><br>
 <div align=center>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://activity-graph.herokuapp.com/graph?username=g2hhh2ee&theme=react-dark&bg_color=20232a&hide_border=true&line=FBE38E&color=DBAEFF" width=98%/>
